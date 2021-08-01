@@ -1,5 +1,5 @@
 # Lawnchair
-LAWN_ROOT := vendor/potato-prebuilts/packages/apps/Lawnchair
+LAWN_ROOT := packages/apps/Lawnchair
 
 PRODUCT_PACKAGES += Lawnchair
 PRODUCT_PACKAGE_OVERLAYS += $(LAWN_ROOT)/overlay
